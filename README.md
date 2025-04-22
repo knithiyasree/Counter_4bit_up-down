@@ -142,7 +142,8 @@ Click the cds.lib file and save the file by clicking on Save option
 	Left side you can see the HDL files. Right side of the window has worklib and snapshots directories listed.
 
 	Worklib is the directory where all the compiled codes are stored while Snapshot will have output of elaboration which in turn goes for simulation
-![Screenshot 2025-03-18 133120](https://github.com/user-attachments/assets/0960c43d-0819-46e7-be71-b947f531cdc7)
+![image](https://github.com/user-attachments/assets/c3d3237b-fc38-4e3b-9f2e-fd8b1ca5649b)
+
 
 ## Fig 6: Nclaunch Window
 
